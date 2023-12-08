@@ -1,0 +1,3 @@
+# mousebolt
+
+An Autoclicker
